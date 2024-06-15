@@ -5,20 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whybiswa" alt="whybiswa" /></a> </p>
 
-- 🔭 I’m currently working on [Kribble](http://kribble.net)
-
-- 🌱 I’m currently learning **Smart Contracts**
-
-- 👯 I’m looking to collaborate on [Algabay AI](https://www.algabay.com)
-
-- 📝 I regularly write articles on [http://blog.kribble.net](http://blog.kribble.net)
-
-- 💬 Ask me about **Node, PostgreSQL, React, React Native**
-
-- 📫 How to reach me **biswarupsen.work@gmail.com**
-
-- ⚡ Fun fact **My mind dances through code like a high-speed connection**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/whybiswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whybiswa" height="30" width="40" /></a>
